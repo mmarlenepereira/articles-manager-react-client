@@ -1,0 +1,23 @@
+
+  body {
+    margin-left: 30px;
+  }
+
+  .articles-list-item {
+    margin-bottom: 20px;
+  }
+
+  .new-article-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+
+  .button-margin {
+        margin-right: 10px;
+  }
+
+  .form-group {
+    margin-bottom: 1rem;
+  }
+
